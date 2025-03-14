@@ -15,8 +15,7 @@
 📌 **Xcode에서 "Command Line Tool" 프로젝트를 생성한 후 실행**  
 📌 **연산 클래스를 활용하여 다양한 연산 수행 가능**  
 
-```
-swift
+```swift
 import Foundation
 
 let calculator = Calculator()
